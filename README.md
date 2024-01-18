@@ -2,7 +2,7 @@
 
 ## Used Logistic Regression and Random Forest algorithm to build a model that can predict win probablity of the current match situation.
 
-## you can test the app by run this code on your local machine or just go to the below live app url
+## Test the app by run this code on your local machine or just go to the below live app url
 
 ## How to run this application in your local system
 - Install streamlit by Run the command `pip install streamlit`.
