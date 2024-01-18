@@ -8,5 +8,5 @@
 - Install streamlit by Run the command `pip install streamlit`.
 - After, Run the command `streamlit run app.py`.
 
-## Live app
+### Live application Url
 - https://ipl-win-predictor-b3ml.onrender.com
